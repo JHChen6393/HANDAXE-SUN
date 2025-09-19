@@ -1,0 +1,26 @@
+Meta_Topic_ID,Meta_Topic_Name,Stability (Reproduction Rate %),Size (Total Chunks),Number of Member Topics
+Meta-Topic_1,emotions_l2_positive_fle_negative,100.0,947,10
+Meta-Topic_2,vocabulary_word_words_knowledge_lexical,100.0,807,10
+Meta-Topic_3,collocations_processing_l2_l1_speakers,100.0,350,10
+Meta-Topic_4,reading_comprehension_listening_clil_l2,100.0,421,10
+Meta-Topic_6,fluency_speech_speakers_pauses_disfluency,100.0,380,10
+Meta-Topic_9,pronunciation_feedback_training_orthography_intelligibility,100.0,342,10
+Meta-Topic_12,complexity_writing_task_l2_ai,100.0,903,10
+Meta-Topic_11,memory_learning_procedural_working_noticing,100.0,308,10
+Meta-Topic_10,selfefficacy_effect_notetaking_writing_english,100.0,312,10
+Meta-Topic_19,online_teaching_technology_teacher_educators,100.0,170,10
+Meta-Topic_16,task_learners_engagement_tasks_language,100.0,556,10
+Meta-Topic_17,phrasal_exercises_verbs_exercise_web,100.0,190,10
+Meta-Topic_13,autonomy_practices_literacy_dmc_multimodal,100.0,286,10
+Meta-Topic_15,learning_words_language_hebrew_advantage,100.0,237,10
+Meta-Topic_18,gender_nouns_agreement_heritage_aob,100.0,180,10
+Meta-Topic_5,teachers_teacher_beliefs_practices_teaching,80.0,289,11
+Meta-Topic_21,feedback_selfregulation_srl_learning_performance,80.0,330,8
+Meta-Topic_14,language_ideologies_racialized_spanish_heritage,60.0,169,6
+Meta-Topic_7,languages_basque_language_multilingualism_multilingual,60.0,196,6
+Meta-Topic_24,priming_clauses_relative_stranding_piedpiping,60.0,111,6
+Meta-Topic_8,ai_writing_chatgpt_feedback_tools,40.0,153,4
+Meta-Topic_20,language_teachers_teacher_students_beliefs,40.0,534,4
+Meta-Topic_23,writing_conflict_cw_collaborative_collaboration,40.0,90,4
+Meta-Topic_22,intercultural_competence_students_nnes_attitudes,20.0,44,2
+Meta-Topic_25,speech_pitch_prosodic_acts_expressions,20.0,31,2
